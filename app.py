@@ -6,9 +6,10 @@ from scripts import forms, helpers
 import json, os
 
 app = Flask(__name__)
-app.secret_key = os.urandom(12)
-app.debug = True
 
+@app.route('/')
+def main() :
+    return "Welcome Flask"
 # @app.route('/', methods=['GET','POST'])
 # def login():
 #     if not session.get('logged_in') :
@@ -161,4 +162,4 @@ def api_numsAll():
                    , data=data)
 
 
-app.run(host='0.0.0.0')
+app.run(host='0.0.0.0', port=80)
