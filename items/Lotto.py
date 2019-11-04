@@ -12,7 +12,7 @@ today = GlobalMethod.getToday()
 dDay = GlobalMethod.getDDay()
 thisTime = GlobalMethod.getthisTime()
 learning_rate = 0.05
-steps = 10
+steps = 10000
 
 # nums받으면 회차 구해주기
 def numsToTimeAndDays(nums):

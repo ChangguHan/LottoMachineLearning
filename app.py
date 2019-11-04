@@ -151,7 +151,7 @@ def api_nums500():
                    , data=data)
 
 
-@app.route('/api/nums1000')
+@app.route('/api/numsAll')
 def api_numsAll():
     today = str(GlobalMethod.getToday())
     dDay = str(GlobalMethod.getDDay())

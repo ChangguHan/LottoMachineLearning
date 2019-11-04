@@ -68,7 +68,7 @@ def dbGetPredictedData(id, nums):
         newdict = dict[str(nums)]
         result = {}
         for i in newdict.keys() :
-            result[int(i)] = float(newdict[i])
+            result[str(i)] = str(newdict[i])
 
         return result
 
