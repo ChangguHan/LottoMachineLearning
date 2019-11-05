@@ -12,9 +12,6 @@ learning data. And shows on the view of App.
 
 ![ConceptImg](./img/concept.png){: width="10px" height="10px"}
 
-
-<img class = "center" src= "./img/concept.png" width="300px" height="200px" />
-
-.center{
-    margin: auto;
-}
+<p align="center">
+    <img class = "center" src= "./img/concept.png" width="500px" height="350px" />
+</p>
