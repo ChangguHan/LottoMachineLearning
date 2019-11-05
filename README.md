@@ -10,8 +10,6 @@ The main idea is this, 'Are there any relation between date and lotto numbers?'
 The server is running python Tensorflow and Flask. And Android App gets the result of machine
 learning data. And shows on the view of App.
 
-![ConceptImg](./img/concept.png){: width="10px" height="10px"}
-
 <p align="center">
-    <img class = "center" src= "./img/concept.png" width="500px" height="350px" />
+    <img class = "center" src= "./img/concept.png" width="600px" height="350px" />
 </p>
