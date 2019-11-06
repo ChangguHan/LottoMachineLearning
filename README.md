@@ -18,5 +18,5 @@ learning data. And shows on the view of App.
 https://play.google.com/store/apps/details?id=com.mllab.lottoml
 
 <p align="center">
-    <img class = "center" src= "./img/googlePlayImg.png" width="800px" height="350px" />
+    <img class = "center" src= "./img/googlePlayImg.png" width="700px" height="350px" />
 </p>
