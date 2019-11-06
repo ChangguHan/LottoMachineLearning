@@ -13,3 +13,10 @@ learning data. And shows on the view of App.
 <p align="center">
     <img class = "center" src= "./img/concept.png" width="600px" height="350px" />
 </p>
+
+### Android App
+https://play.google.com/store/apps/details?id=com.mllab.lottoml
+
+<p align="center">
+    <img class = "center" src= "./img/googlePlayImg.png" width="600px" height="350px" />
+</p>
